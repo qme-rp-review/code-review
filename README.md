@@ -75,18 +75,11 @@ to download the numerical data.
 
 ### 3. Set up the Python environment
 
-Using conda:
-
-```bash
-conda env create -f environment.yml
-conda activate qme-rp
-```
-
-Alternatively, using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ### 4. Reproduce the figures from the precomputed data
 
