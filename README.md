@@ -1,7 +1,10 @@
 # Code for "Quantum Many-Body Mpemba Effect through Resonances"
 
-This repository contains the code and numerical data used to reproduce the main results of the manuscript  
-**"Quantum Many-Body Mpemba Effect through Resonances"**.
+This repository contains the code and numerical data used to reproduce the main results of the manuscript:
+
+**[Quantum Many-Body Mpemba Effect through Resonances](https://arxiv.org/abs/2603.11788)**  
+Shion Yamashika and Ryusuke Hamazaki  
+arXiv:2603.11788
 
 The repository is prepared for code review. It contains precomputed data for reproducing the figures, together with scripts for regenerating the data when needed. The full data generation can be computationally expensive, so for review-time reproducibility we recommend first reproducing the figures from the precomputed data.
 
