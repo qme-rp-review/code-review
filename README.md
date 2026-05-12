@@ -58,8 +58,8 @@ The repository is prepared for code review. It contains precomputed data for rep
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_ORGANIZATION/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/qme-rp-review/code-review.git
+cd code-review
 ```
 
 ### 2. Download the data files
@@ -172,7 +172,8 @@ To be added.
 
 ## Contact
 
-For questions about the code, please contact:shion.yamashika@uec.ac.jp
+For questions about the code, please contact:
 
 Shion Yamashika  
+shion.yamashika@uec.ac.jp
 
